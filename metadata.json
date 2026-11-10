@@ -1,0 +1,6 @@
+{
+  "name": "Chess Master",
+  "description": "A feature-packed chess game featuring smart AI bot with multiple difficulties, 2-player pass & play, daily puzzles, interactive analysis, timers, move hints, and custom board themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
